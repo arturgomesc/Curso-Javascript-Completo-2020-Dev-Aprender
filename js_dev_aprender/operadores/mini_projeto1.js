@@ -1,5 +1,5 @@
-let a = 'Vermelho'
-let b = 'Azul'
+let a = 'Vermelho';
+let b = 'Azul';
 
 let c = a;
 a = b;
